@@ -10,6 +10,7 @@
 [![Flask](https://img.shields.io/badge/Flask-3.0-black?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com)
 [![Model](https://img.shields.io/badge/Model-MuRIL-green?style=for-the-badge)](https://huggingface.co/google/muril-base-cased)
 [![Accuracy](https://img.shields.io/badge/Accuracy-100%25-brightgreen?style=for-the-badge)](#results)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 <br/>
 
